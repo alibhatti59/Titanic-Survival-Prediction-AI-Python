@@ -179,25 +179,19 @@ The application will automatically open in your browser.
 
 ## Home Page
 
-> Add screenshot here
+![Home Page](screenshots/home.png)
 
 ---
 
 ## Prediction Page
 
-> Add screenshot here
+![Prediction Page](screenshots/prediction.png)
 
 ---
 
 ## Prediction Result
 
-> Add screenshot here
-
----
-
-## Model Comparison
-
-> Add screenshot here
+![Prediction Result](screenshots/result.png)
 
 ---
 
@@ -255,10 +249,10 @@ This project is licensed under the MIT License.
 
 # 👤 Author
 
-**Ali Bhatti**
+**Ali Hassnain Bhatti**
 
 * GitHub: https://github.com/alibhatti59
-* Email: [alihussnainbhatti59@gmail.com](mailto:alihussnainbhatti59@gmail.com)
+* Email: [thealibhatti.dev@gmail.com](mailto:thealibhatti.dev@gmail.com)
 
 ---
 
